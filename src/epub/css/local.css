@@ -22,3 +22,14 @@
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:postscript"]{
+	margin-top: 1em;
+	text-align: left;
+	text-indent: 0;
+}
