@@ -62,8 +62,8 @@
 		<dc:source>https://archive.org/details/dli.bengal.10689.11810</dc:source>
 		<dc:source>https://archive.org/details/completeworksofr0003burn/</dc:source>
 		<meta property="se:production-notes">Some English words spelled in a French way are kept in the older French spelling as part of the text flavor.</meta>
-		<meta property="se:word-count">195638</meta>
-		<meta property="se:reading-ease.flesch">68.4</meta>
+		<meta property="se:word-count">195893</meta>
+		<meta property="se:reading-ease.flesch">68.7</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Villette_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charlotte-bronte_villette</meta>
 		<dc:creator id="author">Charlotte Brontë</dc:creator>
