@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/charlotte-bronte/villette</dc:identifier>
 		<dc:date>2020-06-16T19:28:12Z</dc:date>
@@ -49,10 +49,10 @@
 		<meta id="collection-1" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">28</meta>
-		<dc:description id="description">A young woman travels from England to the fictional town of Villette where she makes new connections and encounters people from her past.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young woman travels from England to the fictional town of Villette where she makes new connections and encounters people from her past.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/charlotte-bronte"&gt;Charlotte Brontë’s&lt;/a&gt; last novel, &lt;i&gt;Villette&lt;/i&gt;, is thought to be most closely modelled on her own experiences teaching in a &lt;i&gt;pensionnat&lt;/i&gt; in Brussels, the place on which the fictional town of Villette is based. In the novel, first published in 1853, we follow the protagonist Lucy Snowe from the time she is fourteen and lives with her godmother in rural England, through her family tragedies and departure for the town of Villette where she finds work at a French boarding school. People from her past reappear in dramatic ways, she makes new connections, and she learns the stories and secrets of the people around her. Through it all, the reader is made privy to Lucy’s thoughts, feelings, and journey of self-discovery.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/9182</dc:source>
 		<!--primary page scans-->
