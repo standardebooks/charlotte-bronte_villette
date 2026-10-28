@@ -90,6 +90,7 @@
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="annotator-1">J. M. Dent and Company</dc:contributor>
 		<meta property="file-as" refines="annotator-1">J. M. Dent and Company</meta>
+		<link href="https://en.wikipedia.org/wiki/J._M._Dent" refines="#annotator-1" rel="schema:sameAs"/>
 		<meta property="role" refines="#annotator-1" scheme="marc:relators">ann</meta>
 		<dc:contributor id="producer-1">Srijoni Sen</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Sen, Srijoni</meta>
